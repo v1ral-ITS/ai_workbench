@@ -11,7 +11,7 @@
 
 Built by **Bear Carrington · ImPerial TeK. Solutions**
 
-[Landing page](https://its-ai-workbench.coiledbiscuit8.chatgpt.site) · [CodePolisher](https://codepolisher.app) · [ITS-Convert](https://github.com/v1ral-ITS/ITS-Convert)
+[CodePolisher](https://codepolisher.app) · [ITS-Convert](https://github.com/v1ral-ITS/ITS-Convert)
 
 <img width="1066" height="892" alt="ITS AI Workbench interface" src="https://github.com/user-attachments/assets/b44d2c55-c039-46de-9525-9302b40ab30e" />
 
